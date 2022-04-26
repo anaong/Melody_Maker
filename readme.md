@@ -9,7 +9,7 @@ To do: Add picture
 
 # How to Run
 1. Upload code to Arduino
-To do: Add keypad instructions
+2. To do: Add keypad instructions
 
 # Notes
 Does not need to be an Uno, it could be any other type of Arduino as long as there are enough pins.
