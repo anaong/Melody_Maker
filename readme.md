@@ -2,9 +2,9 @@
 Plays a melody on the buzzer that is connected to an Arduino Uno. Uses the keypad to input the note, octave, and the timing.
 
 # Requirements
-Arduino Uno
-Buzzer
-Keypad library created by Alexander Brevig
+Arduino Uno  
+Buzzer  
+Keypad library created by Alexander Brevig  
 To do: Add picture
 
 # How to Run
